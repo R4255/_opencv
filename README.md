@@ -26,4 +26,5 @@ Follow these instructions to set up the project on your local machine:
    ```bash
    git clone https://github.com/R4255/_opencv.git
 2. Navigate to the repository:
+   ```bash
    cd _opencv
